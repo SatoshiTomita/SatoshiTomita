@@ -45,20 +45,21 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 Stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoshiTomita&theme=gruvbox" />
 </p>
 
+<!-- Languages -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiTomita&theme=gruvbox" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiTomita&theme=gruvbox" />
 </p>
 
+<!-- GitHub stats (sub) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatoshiTomita&theme=gruvbox" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatoshiTomita&theme=gruvbox&utcOffset=9" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SatoshiTomita&count_private=true&theme=dracula&hide_title=true" />
 </p>
+
 
 
 
