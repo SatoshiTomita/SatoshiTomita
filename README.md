@@ -15,6 +15,9 @@
     <img height="20" src="https://badgen.org/img/zenn/keichan_15/articles?style=plastic" />
   </a> -->
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00FFFF&size=25&center=true&vCenter=true&width=600&height=100&lines=WELCOME+TO+MY+PAGE" />
+</p>
 
 ## Hi there 👋
 
@@ -34,14 +37,17 @@ Here are some ideas to get you started:
 -->
 
 ## Stats
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoshiTomita&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiTomita&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiTomita&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatoshiTomita&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatoshiTomita&theme=gruvbox&utcOffset=9)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SatoshiTomita&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SatoshiTomita&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SatoshiTomita&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SatoshiTomita&theme=gruvbox)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SatoshiTomita&theme=gruvbox&utcOffset=9)
 
-## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=SatoshiTomita&theme=gruvbox)
+
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SatoshiTomita&theme=gruvbox" />
+</p> -->
 
 
 
